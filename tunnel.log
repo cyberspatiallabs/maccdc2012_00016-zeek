@@ -1,0 +1,8 @@
+{"ts":1332008687.36,"uid":"CgOAzT3I2LsWp4vbui","id.orig_h":"192.168.202.138","id.orig_p":48136,"id.resp_h":"192.168.27.100","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1332008694.04,"uid":"CtDniuSgq7LjyC4De","id.orig_h":"192.168.202.138","id.orig_p":44072,"id.resp_h":"192.168.27.1","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1332008747.36,"uid":"CgOAzT3I2LsWp4vbui","id.orig_h":"192.168.202.138","id.orig_p":48136,"id.resp_h":"192.168.27.100","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1332008754.04,"uid":"CtDniuSgq7LjyC4De","id.orig_h":"192.168.202.138","id.orig_p":44072,"id.resp_h":"192.168.27.1","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1332008992.33,"uid":"CkDRs61Yxg49kbgkkd","id.orig_h":"192.168.202.138","id.orig_p":41004,"id.resp_h":"192.168.27.253","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1332008993.36,"uid":"CZWYWa32ybOqCcabrd","id.orig_h":"192.168.202.138","id.orig_p":33771,"id.resp_h":"192.168.27.254","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1332009052.33,"uid":"CkDRs61Yxg49kbgkkd","id.orig_h":"192.168.202.138","id.orig_p":41004,"id.resp_h":"192.168.27.253","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1332009053.36,"uid":"CZWYWa32ybOqCcabrd","id.orig_h":"192.168.202.138","id.orig_p":33771,"id.resp_h":"192.168.27.254","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}

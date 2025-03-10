@@ -1,0 +1,12 @@
+{"ts":1332008677.49,"ts_delta":60.0,"peer":"zeek","gaps":0,"acks":1237,"percent_lost":0.0}
+{"ts":1332009577.57,"ts_delta":900.079999923706,"peer":"zeek","gaps":0,"acks":24301,"percent_lost":0.0}
+{"ts":1332010477.57,"ts_delta":900.0,"peer":"zeek","gaps":0,"acks":37374,"percent_lost":0.0}
+{"ts":1332011377.57,"ts_delta":900.0,"peer":"zeek","gaps":0,"acks":5045,"percent_lost":0.0}
+{"ts":1332012277.63,"ts_delta":900.0600001811981,"peer":"zeek","gaps":0,"acks":36938,"percent_lost":0.0}
+{"ts":1332013177.65,"ts_delta":900.0199999809265,"peer":"zeek","gaps":0,"acks":56496,"percent_lost":0.0}
+{"ts":1332014077.65,"ts_delta":900.0,"peer":"zeek","gaps":0,"acks":69149,"percent_lost":0.0}
+{"ts":1332014977.65,"ts_delta":900.0,"peer":"zeek","gaps":0,"acks":61647,"percent_lost":0.0}
+{"ts":1332015877.71,"ts_delta":900.0599999427795,"peer":"zeek","gaps":0,"acks":46991,"percent_lost":0.0}
+{"ts":1332016777.71,"ts_delta":900.0,"peer":"zeek","gaps":0,"acks":41585,"percent_lost":0.0}
+{"ts":1332017677.73,"ts_delta":900.0199999809265,"peer":"zeek","gaps":6,"acks":1587,"percent_lost":0.3780718336483932}
+{"ts":1332017992.71,"ts_delta":314.9800000190735,"peer":"zeek","gaps":1,"acks":468,"percent_lost":0.21367521367521367}
