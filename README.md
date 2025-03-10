@@ -8,7 +8,7 @@ This repository contains zeek logs corresponding to the following PCAP:
   * available online at:  [https://share.netresec.com/s/7qgDSGNGw2NY8ea](https://share.netresec.com/s/7qgDSGNGw2NY8ea)
      * Download and extract the file maccdc2012_00016.pcap.gz
 
-See (local.zeek)[./local.zeek] for zeek config used
+See [local.zeek](./local.zeek) for the zeek config used to make these files
 
 
 
